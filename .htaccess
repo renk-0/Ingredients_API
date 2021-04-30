@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /Ingredients_API
+
+RewriteRule ^(.*)$ index.php?p=$1 [L,QSA]
