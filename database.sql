@@ -13,3 +13,8 @@ create or replace table lista (
 insert into lista values 
 	("sal", "5-05-2021_sal.png"),
 	("arroz", "5-05-2021");
+
+-- Y abres la base de datos en 
+-- esta carpeta y le haces
+-- source database.sql
+-- se crea la base de datos y la tabla y se añade todo
