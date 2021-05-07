@@ -1,5 +1,5 @@
 <?php
-$query = ["0"];
+$query = [""];
 if(isset($_GET["p"]))
 	$query = explode("/", $_GET["p"]);
 
