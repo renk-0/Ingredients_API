@@ -50,7 +50,7 @@ insert into lista (ingrediente, imagen) values
 	("Brecol", "brocoli.jfif"),
 	("Calabacín", "zucchini.jfif"),
 	("Calabaza", "pumpkin.jfif"),
-	("Cardo", "thistle.jfif"),
+	("Cardo", "thistle.jpg"),
 	("Cebolla", "onion.jfif"),
 	("Cebolla caramelizada", "onion_cara.jfif"),
 	("Cebolleta", "cebolleta.jfif"),
