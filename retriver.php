@@ -1,7 +1,7 @@
 <?php
-$conn = new mysqli(null, "", "", "ingredientes");
-$CSE = "";
-$API_KEY = "";
+$conn = new mysqli(null, "***", "***", "ingredientes");
+$CSE = "***";
+$API_KEY = "***";
 $CURL_URL = "https://customsearch.googleapis.com/customsearch/v1?";
 $CURL_URL .= "num=1&";
 $CURL_URL .= "cx=$CSE&";
