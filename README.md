@@ -1,1 +1,3 @@
 # Api de ingredientes
+
+API QUE BRINDA IMAGENES DESDE PHP
